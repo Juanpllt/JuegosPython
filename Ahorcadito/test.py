@@ -1,0 +1,4 @@
+from Ahorcado import Ahorcado
+
+
+    
