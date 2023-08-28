@@ -1,4 +1,5 @@
-from Ahorcado import Ahorcado
+from Controladora import Controladora
 
+control = Controladora()
 
     
